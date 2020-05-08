@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+
+
+
+
+ul{
+margin-left: 60px;
+}
+
+ul li{
+list-style: none;
+display: inline-block;
+float:left;
+}
+
+ul li a{
+ display: block;
+  text-decoration:none;
+  front-size:14xp;
+  front-family: arial;
+  color:#1e1e1e;
+  padding: 0 20px;
+}
+ul li a:hover {
+  color:red;
+}
